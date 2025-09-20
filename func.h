@@ -4,4 +4,5 @@ class Class {
 	int number;
 public:
 	void print();
+	~Class();
 };
