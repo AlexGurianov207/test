@@ -7,5 +7,7 @@ int main() {
 	cout << "Hello World" << endl;
 	Class my;
 
+	my.print();
+
 	return 0;
 }
